@@ -1,0 +1,13 @@
+// Lab 4
+#include<iostream>
+using namespace std;
+
+int main() {
+    int a = 5, b = 3;
+    cout << "Sum: " << a + b;
+
+    // Empty lines to avoid merge conflicts
+    cout << endl; 
+    cout << endl; 
+    return 0;
+}
